@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		9C9E54852FDAEDF9000CEF11 /* Songuess.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Songuess.app; sourceTree = BUILT_PRODUCTS_DIR; };
+<<<<<<< HEAD
 		9C9E54A52FDAFBEC000CEF11 /* SonguessTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SonguessTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -43,6 +44,14 @@
 		9C9E54D92FDAFCF4000CEF11 /* resources */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = resources;
+=======
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		9C9E54872FDAEDF9000CEF11 /* Songuess */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Songuess;
+>>>>>>> 849b8f9b0b3bf91e43cbc51ddb4de1dc3c2cb0a0
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -55,6 +64,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+<<<<<<< HEAD
 		9C9E54A22FDAFBEC000CEF11 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -62,14 +72,20 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+=======
+>>>>>>> 849b8f9b0b3bf91e43cbc51ddb4de1dc3c2cb0a0
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
 		9C9E547C2FDAEDF9000CEF11 = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				9C9E54BA2FDAFC79000CEF11 /* src */,
 				9C9E54D92FDAFCF4000CEF11 /* resources */,
+=======
+				9C9E54872FDAEDF9000CEF11 /* Songuess */,
+>>>>>>> 849b8f9b0b3bf91e43cbc51ddb4de1dc3c2cb0a0
 				9C9E54862FDAEDF9000CEF11 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -78,7 +94,10 @@
 			isa = PBXGroup;
 			children = (
 				9C9E54852FDAEDF9000CEF11 /* Songuess.app */,
+<<<<<<< HEAD
 				9C9E54A52FDAFBEC000CEF11 /* SonguessTV.app */,
+=======
+>>>>>>> 849b8f9b0b3bf91e43cbc51ddb4de1dc3c2cb0a0
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -99,8 +118,12 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+<<<<<<< HEAD
 				9C9E54BA2FDAFC79000CEF11 /* src */,
 				9C9E54D92FDAFCF4000CEF11 /* resources */,
+=======
+				9C9E54872FDAEDF9000CEF11 /* Songuess */,
+>>>>>>> 849b8f9b0b3bf91e43cbc51ddb4de1dc3c2cb0a0
 			);
 			name = Songuess;
 			packageProductDependencies = (
@@ -109,6 +132,7 @@
 			productReference = 9C9E54852FDAEDF9000CEF11 /* Songuess.app */;
 			productType = "com.apple.product-type.application";
 		};
+<<<<<<< HEAD
 		9C9E54A42FDAFBEC000CEF11 /* SonguessTV */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9C9E54AD2FDAFBEC000CEF11 /* Build configuration list for PBXNativeTarget "SonguessTV" */;
@@ -128,6 +152,8 @@
 			productReference = 9C9E54A52FDAFBEC000CEF11 /* SonguessTV.app */;
 			productType = "com.apple.product-type.application";
 		};
+=======
+>>>>>>> 849b8f9b0b3bf91e43cbc51ddb4de1dc3c2cb0a0
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -141,9 +167,12 @@
 					9C9E54842FDAEDF9000CEF11 = {
 						CreatedOnToolsVersion = 26.5;
 					};
+<<<<<<< HEAD
 					9C9E54A42FDAFBEC000CEF11 = {
 						CreatedOnToolsVersion = 26.5;
 					};
+=======
+>>>>>>> 849b8f9b0b3bf91e43cbc51ddb4de1dc3c2cb0a0
 				};
 			};
 			buildConfigurationList = 9C9E54802FDAEDF9000CEF11 /* Build configuration list for PBXProject "Songuess" */;
@@ -161,7 +190,10 @@
 			projectRoot = "";
 			targets = (
 				9C9E54842FDAEDF9000CEF11 /* Songuess */,
+<<<<<<< HEAD
 				9C9E54A42FDAFBEC000CEF11 /* SonguessTV */,
+=======
+>>>>>>> 849b8f9b0b3bf91e43cbc51ddb4de1dc3c2cb0a0
 			);
 		};
 /* End PBXProject section */
@@ -174,6 +206,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+<<<<<<< HEAD
 		9C9E54A32FDAFBEC000CEF11 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -181,6 +214,8 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+=======
+>>>>>>> 849b8f9b0b3bf91e43cbc51ddb4de1dc3c2cb0a0
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -191,6 +226,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+<<<<<<< HEAD
 		9C9E54A12FDAFBEC000CEF11 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -198,6 +234,8 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+=======
+>>>>>>> 849b8f9b0b3bf91e43cbc51ddb4de1dc3c2cb0a0
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
@@ -337,7 +375,10 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+<<<<<<< HEAD
 				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+=======
+>>>>>>> 849b8f9b0b3bf91e43cbc51ddb4de1dc3c2cb0a0
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -370,7 +411,10 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+<<<<<<< HEAD
 				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+=======
+>>>>>>> 849b8f9b0b3bf91e43cbc51ddb4de1dc3c2cb0a0
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -388,6 +432,7 @@
 			};
 			name = Release;
 		};
+<<<<<<< HEAD
 		9C9E54AE2FDAFBEC000CEF11 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -450,6 +495,8 @@
 			};
 			name = Release;
 		};
+=======
+>>>>>>> 849b8f9b0b3bf91e43cbc51ddb4de1dc3c2cb0a0
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -471,6 +518,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+<<<<<<< HEAD
 		9C9E54AD2FDAFBEC000CEF11 /* Build configuration list for PBXNativeTarget "SonguessTV" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -480,6 +528,8 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+=======
+>>>>>>> 849b8f9b0b3bf91e43cbc51ddb4de1dc3c2cb0a0
 /* End XCConfigurationList section */
 	};
 	rootObject = 9C9E547D2FDAEDF9000CEF11 /* Project object */;
